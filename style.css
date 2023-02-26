@@ -1,0 +1,30 @@
+body {
+    color: #000;
+    font: 12px Verdana, sans-serif;
+    }
+#conteudo {
+	text-align: center;
+	}
+#menu {
+	
+	margin: 0; padding: 0;
+	float: left;
+	}
+#menu ul li {
+    margin: 0; padding: 0px;
+    border-bottom: 1px solid #CCC;
+    text-align: center;
+    list-style-type: none;
+    }
+#menu a:link {
+    background: #F5F5F5;
+    color: #666;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 8px;
+    display: block;
+    }
+#menu a:hover {
+    background: #E5F0FF;
+    color: #039;
+    }
